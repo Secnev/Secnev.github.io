@@ -1,0 +1,28 @@
+{
+  "name": "portfoliowebsite",
+  "version": "1.0.0",
+  "description": "My Personal Website",
+  "main": "index.html",
+  "dependencies": {
+    "bootstrap": "^4.5.0",
+    "jquery": "^3.5.1",
+    "lite-server": "^2.6.1",
+    "popper.js": "^1.16.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "lite": "lite-server",
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1"
+ },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Secnev/Secnev.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Secnev/Secnev.github.io/issues"
+  },
+  "homepage": "https://github.com/Secnev/Secnev.github.io#readme"
+}
